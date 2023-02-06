@@ -1,5 +1,5 @@
 <code>👷 Speciality: Software engineer / Frontend</code><br>
-<code>💡 [Skills]</code>
+<code>💡 [Skills] JS, html, css</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
