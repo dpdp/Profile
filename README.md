@@ -7,4 +7,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@dmytro_0](https://telegram.me/dmytro_0)</code>
-<code>📫 [your-email](mailto:dmitry.palenkov@gmail.com)</code>
+<code>📫 [Email](mailto:dmitry.palenkov@gmail.com)</code>
